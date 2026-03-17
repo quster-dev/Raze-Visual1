@@ -1,0 +1,21 @@
+[
+  {
+    "id": "d5e130835632307618b598da",
+    "name": "WexileMaven",
+    "email": "homewexile@gmail.com",
+    "passwordHash": "c0d9d90a13488c1ca08faeef39460342:0295b649ce7434c95290acd23e544dc3fc726226fed8958ca1b140a1854af63e",
+    "createdAt": "2026-02-23T12:48:27.220Z",
+    "status": "active",
+    "subscriptions": [
+      {
+        "id": "sub_47qtlmj8",
+        "planId": "days-30",
+        "title": "30 Days",
+        "issuedAt": "2026-02-23T17:34:02.819Z",
+        "expiresAt": "2026-03-25T17:34:02.819Z",
+        "status": "active"
+      }
+    ],
+    "hwid": "dev_a170s6mlzgsreq"
+  }
+]
